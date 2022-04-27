@@ -8,6 +8,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
+    `gatsby-theme-docz`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
